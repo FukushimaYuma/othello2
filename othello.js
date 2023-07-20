@@ -2,6 +2,7 @@ const board = document.getElementById('board')
 
 let count = 0
 
+// オセロの状態を保存する配列
 const geme = []
 
 function makeBlack(masu) {
